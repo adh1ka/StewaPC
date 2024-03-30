@@ -1,0 +1,27 @@
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\bin\Debug\StewaPC.exe.config
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\bin\Debug\StewaPC.exe
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\bin\Debug\StewaPC.pdb
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.AssemblyReference.cache
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.loginForm.resources
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.Properties.Resources.resources
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.GenerateResource.cache
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.CoreCompileInputs.cache
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.exe
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.pdb
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.splash.resources
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.productForm.resources
+C:\Users\IT Software\source\repos\StewaPC\StewaPC\obj\Debug\StewaPC.sellerForm.resources
+D:\learning\csharp-project\StewaPC\StewaPC\bin\Debug\StewaPC.exe.config
+D:\learning\csharp-project\StewaPC\StewaPC\bin\Debug\StewaPC.exe
+D:\learning\csharp-project\StewaPC\StewaPC\bin\Debug\StewaPC.pdb
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.AssemblyReference.cache
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.loginForm.resources
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.productForm.resources
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.Properties.Resources.resources
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.sellerForm.resources
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.splash.resources
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.GenerateResource.cache
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.csproj.CoreCompileInputs.cache
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.exe
+D:\learning\csharp-project\StewaPC\StewaPC\obj\Debug\StewaPC.pdb
